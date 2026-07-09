@@ -294,7 +294,7 @@ Computer Science undergraduate building practical skills in data analytics, Pyth
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kartikey9438&theme=github_dark&utcOffset=5.5" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kartikey9438&theme=github_dark" />
+<img width="49%" src="https://capsule-render.vercel.app/api?type=rect&height=195&color=0:0D1117,100:312E81&text=Kartikey%20Mishra&fontColor=A78BFA&fontSize=34&fontAlignY=42&desc=Aspiring%20Data%20Analyst%20%7C%20GitHub%20Portfolio&descAlignY=64" />
 
 </div>
 
